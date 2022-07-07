@@ -5,7 +5,6 @@ return {
                                                   -- World Settings
         frograin="rare",                       --     World | Frog Rain                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
         hounds="rare",                         --     World | Hound Attacks                                                      never (None) rare (Little) default (Default) often (More) always (Tons) 
-        lightning="never",                      --     World | Lightning                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
         wildfires="never",                      --     World | Wildfires                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
         carrots_regrowth="fast",               --     Resource Regrowth | Carrots                                                never (None) veryslow (Very Slow) slow (Slow) default (Default) fast (Fast) veryfast (Very Fast) 
         flowers_regrowth="fast",               --     Resource Regrowth | Flowers                                                never (None) veryslow (Very Slow) slow (Slow) default (Default) fast (Fast) veryfast (Very Fast) 
@@ -18,6 +17,5 @@ return {
         touchstone="often",                     --     World | Touch Stones                                                       never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
         boons="often",                          --     World | Failed Survivors                                                   never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
         mushroom="mostly",                       --     Resources | Mushrooms                                                      never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
-        reeds="often",                          --     Resources | Reeds                                                          never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
 	},
 }
