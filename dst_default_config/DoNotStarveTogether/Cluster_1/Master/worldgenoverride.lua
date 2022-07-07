@@ -5,7 +5,7 @@ return {
                                                   -- World Settings
         frograin="rare",                       --     World | Frog Rain                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
         hounds="rare",                         --     World | Hound Attacks                                                      never (None) rare (Little) default (Default) often (More) always (Tons) 
-        wildfires="never",                      --     World | Wildfires                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
+        wildfires="rare",                      --     World | Wildfires                                                          never (None) rare (Little) default (Default) often (More) always (Tons) 
         carrots_regrowth="fast",               --     Resource Regrowth | Carrots                                                never (None) veryslow (Very Slow) slow (Slow) default (Default) fast (Fast) veryfast (Very Fast) 
         flowers_regrowth="fast",               --     Resource Regrowth | Flowers                                                never (None) veryslow (Very Slow) slow (Slow) default (Default) fast (Fast) veryfast (Very Fast) 
         wasps="never",                          --     Hostile Creatures | Killer Bees                                            never (None) rare (Little) default (Default) often (More) always (Tons) 
